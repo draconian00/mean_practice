@@ -1,0 +1,20 @@
+{
+  "name": "mean_practice",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "draconian <draconian00@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://draconian.tistory.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
